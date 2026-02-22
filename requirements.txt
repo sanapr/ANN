@@ -11,5 +11,4 @@ streamlit
 pandas
 numpy
 scikit-learn
-h5py
-protobuf==3.20.3
+joblib
